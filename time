@@ -1,1 +1,25 @@
 
+const greet = Hi;
+консоль. log(Hello));
+
+проект const  = {
+    вариант1: 'Intelligence and time,',
+    вариант2: 'Time',
+    запуск: Function() {
+        консоль. log
+        консоль. log('Started ${this. option1} ${this. вариант2}')},
+    стоп: Function() {
+        консоль. log
+        консоль. log('Остановлено ${this. option1} ${this. вариант2}')}
+}
+проект. начало()
+проект. остановка()
+
+addItem = () => {
+        пусть item1 = 'Time';
+        пусть item2 = 'job';
+        пусть item3 = 'Function';
+        консоль. log(элемент1);
+        консоль. log(элемент2);
+        консоль. log(элемент3);
+}
